@@ -6,3 +6,6 @@ The model does not uses a premade model and isntead for learning process, I make
   .openCV - cv2
   .glob
   .path
+
+Dataset used:
+FER Dataset from Kaggle with pre-annotated images (64000+ images)
