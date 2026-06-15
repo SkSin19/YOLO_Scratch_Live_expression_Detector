@@ -1,1 +1,8 @@
-the model does not uses a premade model and isntead for learning process, i make the whole model from scratch with tensorflow.
+The model does not uses a premade model and isntead for learning process, I make the whole model from scratch with tensorflow.
+*Stack and libraries used:*
+  .python 3.13
+  .tensorflow
+  .numpy
+  .openCV - cv2
+  .glob
+  .path
